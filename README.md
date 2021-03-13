@@ -1,4 +1,4 @@
-# Remix:HBD
+# Remix HBD
 
 Here's a quick R script and resulting Tableau visualization after remembering an [old post on r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/comments/i7x16l/its_my_birthday_what_are_the_most_common/). I pulled the same data as OP and created a new column which is the birth date less 9 months. Then, I saved a .csv file which I imported to Tableau to create the visualization. My heatmap looks a bit different from OP's given that I ranked based on average births per day/month grouping and inclued leap days. To the right-hand side of the visualization is the quarter with the most births (Q3) and the quarter with the hypothetically most conceptions (Q4).
 
