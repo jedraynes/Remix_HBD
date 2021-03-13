@@ -4,6 +4,8 @@ Here's a quick R script and resulting Tableau visualization after remembering an
 
 Tools: R (data) and [Tableau](https://public.tableau.com/profile/jedraynes#!/vizhome/RemixMostCommonBirthdaysintheUnitedStates2000-2014/Dashboard) (viz)
 
+Packages: Readr, Lubridate, Dplyr
+
 ---
 Feel free to check out my personal blog at [jedraynes.com](https://www.jedraynes.com). There, you can find ways to contact me via a contact form or over [LinkedIn](https://www.linkedin.com/in/jedraynes/).
 
